@@ -1,0 +1,9 @@
+C:\Users\ahmet\onedrive\documents\visual studio 2017\Projects\ArduinoDeneme\ArduinoDeneme\bin\Release\ArduinoDeneme.exe.config
+C:\Users\ahmet\onedrive\documents\visual studio 2017\Projects\ArduinoDeneme\ArduinoDeneme\bin\Release\ArduinoDeneme.exe
+C:\Users\ahmet\onedrive\documents\visual studio 2017\Projects\ArduinoDeneme\ArduinoDeneme\bin\Release\ArduinoDeneme.pdb
+C:\Users\ahmet\onedrive\documents\visual studio 2017\Projects\ArduinoDeneme\ArduinoDeneme\obj\Release\ArduinoDeneme.csprojResolveAssemblyReference.cache
+C:\Users\ahmet\onedrive\documents\visual studio 2017\Projects\ArduinoDeneme\ArduinoDeneme\obj\Release\ArduinoDeneme.Form1.resources
+C:\Users\ahmet\onedrive\documents\visual studio 2017\Projects\ArduinoDeneme\ArduinoDeneme\obj\Release\ArduinoDeneme.Properties.Resources.resources
+C:\Users\ahmet\onedrive\documents\visual studio 2017\Projects\ArduinoDeneme\ArduinoDeneme\obj\Release\ArduinoDeneme.csproj.GenerateResource.Cache
+C:\Users\ahmet\onedrive\documents\visual studio 2017\Projects\ArduinoDeneme\ArduinoDeneme\obj\Release\ArduinoDeneme.exe
+C:\Users\ahmet\onedrive\documents\visual studio 2017\Projects\ArduinoDeneme\ArduinoDeneme\obj\Release\ArduinoDeneme.pdb

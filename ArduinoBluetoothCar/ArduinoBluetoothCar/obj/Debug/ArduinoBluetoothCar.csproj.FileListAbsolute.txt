@@ -1,0 +1,10 @@
+C:\Users\Ahmet\Bluetooth-Car\ArduinoDeneme\ArduinoDeneme\bin\Debug\ArduinoDeneme.exe.config
+C:\Users\Ahmet\Bluetooth-Car\ArduinoDeneme\ArduinoDeneme\bin\Debug\ArduinoDeneme.exe
+C:\Users\Ahmet\Bluetooth-Car\ArduinoDeneme\ArduinoDeneme\bin\Debug\ArduinoDeneme.pdb
+C:\Users\Ahmet\Bluetooth-Car\ArduinoDeneme\ArduinoDeneme\obj\Debug\ArduinoBluetoothCar.csprojAssemblyReference.cache
+C:\Users\Ahmet\Bluetooth-Car\ArduinoDeneme\ArduinoDeneme\obj\Debug\ArduinoBluetoothCar.Form1.resources
+C:\Users\Ahmet\Bluetooth-Car\ArduinoDeneme\ArduinoDeneme\obj\Debug\ArduinoDeneme.Properties.Resources.resources
+C:\Users\Ahmet\Bluetooth-Car\ArduinoDeneme\ArduinoDeneme\obj\Debug\ArduinoBluetoothCar.csproj.GenerateResource.cache
+C:\Users\Ahmet\Bluetooth-Car\ArduinoDeneme\ArduinoDeneme\obj\Debug\ArduinoBluetoothCar.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Bluetooth-Car\ArduinoDeneme\ArduinoDeneme\obj\Debug\ArduinoDeneme.exe
+C:\Users\Ahmet\Bluetooth-Car\ArduinoDeneme\ArduinoDeneme\obj\Debug\ArduinoDeneme.pdb
